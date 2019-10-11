@@ -10,3 +10,6 @@ Techs used :
  - React.js
  - React Native
  - WebSockets
+ 
+ On going improvement: 
+ - List os spots per user.
